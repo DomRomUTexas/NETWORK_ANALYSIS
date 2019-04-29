@@ -9,6 +9,12 @@ Nick,Koga,20
 Tony,Koga,20
 Koga,Sydney,5
 Koga,Lily,5
+Dom,Nick,40
+Dom,Tony,40
+Nick,Dom,40
+Nick,Tony,40
+Tony,Dom,40
+Tony,Nick,40
 
 
 
