@@ -1,22 +1,22 @@
 source,target,weight
-Sydney,Koga,42
-Lily,Koga,45
-Amari,Koga,42
-Nyah,Koga,41
-Kayin,Koga,46
-Dom,Koga,48
-Nick,Koga,42
-Tony,Koga,49
-Koga,Sydney,9
-Koga,Lily,4
-Sydney,Amari,10
-Sydney,Kayin,11
-Amari,Sydney,9
-Amari,Kayin,14
-Kayin,Sydney,7
-Kayin,Amari,4
-Lily,Nyah,11
-Nyah,Lily,19
+Sydney,Koga,61
+Lily,Koga,64
+Amari,Koga,59
+Nyah,Koga,58
+Kayin,Koga,67
+Dom,Koga,78
+Nick,Koga,84
+Tony,Koga,99
+Koga,Sydney,4
+Koga,Lily,2
+Sydney,Amari,5
+Sydney,Kayin,6
+Amari,Sydney,4
+Amari,Kayin,9
+Kayin,Sydney,4
+Kayin,Amari,1
+Lily,Nyah,7
+Nyah,Lily,9
 
 
 
